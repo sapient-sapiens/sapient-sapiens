@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @sapient-sapiens
+- 👀 I’m interested in ML, Quantum Computing, Competitive Programming, and more. 
+- 🌱 I’m currently working on the foundations of ML Algorithms
+- 💞️ I’m looking to collaborate on any project regarding ML or Quantum or just algorithms in general. 
